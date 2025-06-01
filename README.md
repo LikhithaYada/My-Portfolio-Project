@@ -1,4 +1,5 @@
-${\color{blue} My\ Portfolio\ Webpage\ using\ HTML,\ CSS,\ and\ JavaScript}$
+# **My Portfolio Webpage using HTML, CSS, and JavaScript**
+
 
 # ✅ Objective
 - To create a single-page personal profile using HTML, CSS, and JavaScript, showcasing introductory details and interactive features.
@@ -26,9 +27,6 @@ ${\color{blue} My\ Portfolio\ Webpage\ using\ HTML,\ CSS,\ and\ JavaScript}$
 # ⚙️ JavaScript Interaction
 - Dynamic "Say Hello" button using `prompt()` to collect user input.
 - Greeting shown via `alert()` popup after clicking the button.
-
-# 📸 Screenshot
-![Screenshot](screenshot.png)
 
 # 🔍 Key Highlights
 - Fully self-contained single HTML file with integrated CSS and JS.
